@@ -10,7 +10,6 @@
   
 - 🌱 I’m a backend developer using `Java` and `Spring`.
 - 📚 I’m majoring in `Sports Science` at Daejin University.
-- 📘 My minor is Business Administration.
 - 📧 Email: yhh1056@naver.com
 - 📝 Notion: https://aeno.notion.site/0dfa13f7e8eb40e38ef0a144035bf624
 
