@@ -15,8 +15,7 @@
 
 
 ### 📃 Projects
-
-writing...
+- [`ComePet`](https://github.com/prgrms-web-devcourse/Team_i6_comepet_BE) - 반려동물 실종 신고 및 유기견 분양 플랫폼
 
 ### 🚀 Activities  
 - [`Devcourse`](https://programmers.co.kr/learn/courses/12177) - Programmers backend engineering 1st course (2021.08~ing)
