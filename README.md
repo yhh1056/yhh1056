@@ -11,14 +11,15 @@
 - 🌱 I’m a backend developer using `Java` and `Spring`.
 - 📚 I’m majoring in `Sports Science` at Daejin University.
 - 📧 Email: yhh1056@naver.com
-- 📝 Notion: https://aeno.notion.site/0dfa13f7e8eb40e38ef0a144035bf624
+- 📝 Notion blog: https://aeno.notion.site/0dfa13f7e8eb40e38ef0a144035bf624
+- 📝 Tistory blog: https://yhh1056.tistory.com/
 
 
 ### 📃 Projects
 - [`ComePet`](https://github.com/prgrms-web-devcourse/Team_i6_comepet_BE) - 반려동물 실종 신고 및 유기견 분양 플랫폼
 
 ### 🚀 Activities  
-- [`Devcourse`](https://programmers.co.kr/learn/courses/12177) - Programmers backend engineering 1st course (2021.08~ing)
+- [`Devcourse`](https://programmers.co.kr/learn/courses/12177) - Programmers backend engineering 1st course (2021.08 ~ 2021.12)
 - [`WhiteShip Java Study`](https://github.com/whiteship/live-study) - WhiteShip java live study (2020.11 ~ 2021.03)
 
 
