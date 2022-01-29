@@ -20,7 +20,7 @@
 - [`시급 계산기`](https://github.com/yhh1056/cafe-member) - 카페 사장님을 위한 시급 계산기
 
 ### 📑 Improvement
-- [`baekjoon-archive`] 백준 문제풀이 마크다운 문서화 라이브러리
+- [`baekjoon-archive`](https://github.com/yhh1056/baekjoon-archive) 백준 문제풀이 마크다운 문서화 라이브러리
 
 ### 🚀 Activities  
 - [`Woowa Course 4th`](https://woowacourse.github.io/) - 우아한테크코스4기 (2021.12 ~ ing)
