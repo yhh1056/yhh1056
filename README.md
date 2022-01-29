@@ -19,9 +19,14 @@
 - [`ComePet`](https://github.com/prgrms-web-devcourse/Team_i6_comepet_BE) - 반려동물 실종 신고 및 유기견 분양 플랫폼
 - [`시급 계산기`](https://github.com/yhh1056/cafe-member) - 카페 사장님을 위한 시급 계산기
 
+### 📑 Improvement
+- [`baekjoon-archive`] 백준 문제풀이 마크다운 문서화 라이브러리
+
 ### 🚀 Activities  
-- [`Devcourse`](https://programmers.co.kr/learn/courses/12177) - Programmers backend engineering 1st course (2021.08 ~ 2021.12)
+- [`Woowa Course 4th`](https://woowacourse.github.io/) - 우아한테크코스4기 (2021.12 ~ ing)
+- [`Devcourse Backend 1st`](https://programmers.co.kr/learn/courses/12177) - Programmers backend engineering 1st course (2021.08 ~ 2021.12)
 - [`WhiteShip Java Study`](https://github.com/whiteship/live-study) - WhiteShip java live study (2020.11 ~ 2021.03)
+
 
 
 ### 👣 Stats and Most Used Langauges
