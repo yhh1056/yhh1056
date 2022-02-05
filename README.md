@@ -19,7 +19,7 @@
 - [`ComePet`](https://github.com/prgrms-web-devcourse/Team_i6_comepet_BE) - 반려동물 실종 신고 및 유기견 분양 플랫폼
 - [`시급 계산기`](https://github.com/yhh1056/cafe-member) - 카페 사장님을 위한 시급 계산기
 
-### 📑 Improvement
+### 📑 Small Projects
 - [`baekjoon-archive`](https://github.com/yhh1056/baekjoon-archive) 백준 문제풀이 마크다운 문서화 라이브러리
 
 ### 🚀 Activities  
