@@ -9,8 +9,7 @@
 </p>
   
 - 🌱 I’m a backend developer using `Java` and `Spring`.
-- 📚 I’m majoring in `Sports Science` at Daejin University.
-- 📧 Email: yhh1056@naver.com
+- 📧 Email: hyeonho9995@gmail.com
 - 📝 Notion blog: https://aeno.notion.site/0dfa13f7e8eb40e38ef0a144035bf624
 - 📝 Tistory blog: https://ebabby.tistory.com/
 
